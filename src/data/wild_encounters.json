@@ -154,62 +154,62 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_POOCHYENA"
+                "species": "SPECIES_TRUBBISH"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_WURMPLE"
-              },
-              {
-                "min_level": 4,
-                "max_level": 4,
-                "species": "SPECIES_POOCHYENA"
-              },
-              {
-                "min_level": 4,
-                "max_level": 4,
-                "species": "SPECIES_WURMPLE"
+                "species": "SPECIES_SOLOSIS"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_LOTAD"
-              },
-              {
-                "min_level": 4,
-                "max_level": 4,
-                "species": "SPECIES_LOTAD"
+                "species": "SPECIES_STUNKY"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_ZIGZAGOON"
+                "species": "SPECIES_SLOWPOKE_GALAR"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_ZIGZAGOON"
-              },
-              {
-                "min_level": 4,
-                "max_level": 4,
-                "species": "SPECIES_ZIGZAGOON"
-              },
-              {
-                "min_level": 4,
-                "max_level": 4,
-                "species": "SPECIES_RALTS"
-              },
-              {
-                "min_level": 4,
-                "max_level": 4,
-                "species": "SPECIES_ZIGZAGOON"
+                "species": "SPECIES_CROAGUNK"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_SEEDOT"
+                "species": "SPECIES_MEDITITE"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_CROAGUNK"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_MEDITITE"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_ABRA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_MAREANIE"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_ABRA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_MAREANIE"
               }
             ]
           },
@@ -308,7 +308,7 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_MAGBY"
+                "species": "SPECIES_CHARCADET"
               },
               {
                 "min_level": 3,
@@ -328,7 +328,7 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_VULPIX"
+                "species": "SPECIES_HOUNDOUR"
               },
               {
                 "min_level": 3,
@@ -11501,7 +11501,7 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_GOSSIFLEUR"
+                "species": "SPECIES_SMOLIV"
               },
               {
                 "min_level": 3,
