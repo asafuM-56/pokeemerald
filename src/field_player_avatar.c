@@ -1759,7 +1759,7 @@ static bool32 Fishing_GetRodOut(struct Task *task)
     const s16 minRounds2[] = {
         [OLD_ROD]   = 1,
         [GOOD_ROD]  = 3,
-        [SUPER_ROD] = 6
+        [SUPER_ROD] = 1
     };
 
     task->tRoundsPlayed = 0;
@@ -1902,7 +1902,7 @@ static bool32 Fishing_WaitForA(struct Task *task)
     const s16 reelTimeouts[3] = {
         [OLD_ROD]   = 36,
         [GOOD_ROD]  = 33,
-        [SUPER_ROD] = 30
+        [SUPER_ROD] = 300
     };
 
     AlignFishingAnimationFrames();
@@ -1929,7 +1929,7 @@ static bool32 Fishing_CheckMoreDots(struct Task *task)
     {
         [OLD_ROD]   = {0, 0},
         [GOOD_ROD]  = {40, 10},
-        [SUPER_ROD] = {70, 30}
+        [SUPER_ROD] = {0, 0}
     };
 
     AlignFishingAnimationFrames();

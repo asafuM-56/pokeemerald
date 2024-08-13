@@ -60,6 +60,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Chespin,
             gShinyOverworldPalette_Chespin
         )
+        .isLegendary = TRUE,
         .levelUpLearnset = sChespinLevelUpLearnset,
         .teachableLearnset = sChespinTeachableLearnset,
         .eggMoveLearnset = sChespinEggMoveLearnset,
@@ -245,6 +246,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Fennekin,
             gShinyOverworldPalette_Fennekin
         )
+        .isLegendary = TRUE,
         .levelUpLearnset = sFennekinLevelUpLearnset,
         .teachableLearnset = sFennekinTeachableLearnset,
         .eggMoveLearnset = sFennekinEggMoveLearnset,
@@ -430,6 +432,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Froakie,
             gShinyOverworldPalette_Froakie
         )
+        .isLegendary = TRUE,
         .levelUpLearnset = sFroakieLevelUpLearnset,
         .teachableLearnset = sFroakieTeachableLearnset,
         .eggMoveLearnset = sFroakieEggMoveLearnset,
