@@ -1627,12 +1627,6 @@ static void ChangeSummaryState(s16 *taskData, u8 taskId)
             taskData[3] = STAT_IVS;
             break;
         case STAT_IVS:
-            FillBgTilemapBufferRect(1, EVS_STATS_BLOCK, STATS_CORD_X, STATS_CORD_Y, 1, 1, 2);
-            FillBgTilemapBufferRect(1, EVS_STATS_BLOCK + 1, STATS_CORD_X + 1, STATS_CORD_Y, 1, 1, 2);
-            FillBgTilemapBufferRect(1, EVS_STATS_BLOCK + 2, STATS_CORD_X + 2, STATS_CORD_Y, 1, 1, 2);
-            taskData[3] = STAT_EVS;
-            break;
-        case STAT_EVS:
             FillBgTilemapBufferRect(1, STATS_STATS_BLOCK, STATS_CORD_X, STATS_CORD_Y, 1, 1, 2);
             FillBgTilemapBufferRect(1, STATS_STATS_BLOCK + 1, STATS_CORD_X + 1, STATS_CORD_Y, 1, 1, 2);
             FillBgTilemapBufferRect(1, STATS_STATS_BLOCK + 2, STATS_CORD_X + 2, STATS_CORD_Y, 1, 1, 2);
