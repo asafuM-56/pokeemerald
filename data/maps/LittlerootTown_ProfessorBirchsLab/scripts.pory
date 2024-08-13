@@ -133,6 +133,7 @@ LittlerootTown_ProfessorBirchsLab_EventScript_NicknameStarter::
 LittlerootTown_ProfessorBirchsLab_EventScript_GoSeeRival::
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_EndlessCandy
 	giveitem ITEM_ENDLESS_CANDY
+	giveitem ITEM_SUPER_ROD
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_MightBeGoodIdeaToGoSeeRival, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, YES, LittlerootTown_ProfessorBirchsLab_EventScript_AgreeToSeeRival
 	goto_if_eq VAR_RESULT, NO, LittlerootTown_ProfessorBirchsLab_EventScript_DeclineSeeingRival
@@ -711,7 +712,7 @@ LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon:
 	.string "give a nickname to that {STR_VAR_1}?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_EndlessCandy:
-	.string "PROF. BIRCH: Take this! It will\n"
+	.string "PROF. BIRCH: Take these! They will\n"
 	.string "be very helpful on your journey.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MightBeGoodIdeaToGoSeeRival:
