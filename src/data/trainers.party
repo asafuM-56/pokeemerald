@@ -2119,13 +2119,32 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability / Prefer Strongest Move
 
-Zigzagoon @ Nugget
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Meowth @ Silk Scarf
+Level: 13
+Jolly Nature
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Pay Day
+
+Meowth-Alola @ Muscle Band
+Level: 13
+Jolly Nature
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Feint Attack
+
+Meowth-Galar @ Oran Berry
+Level: 13
+Jolly Nature
+Ability: Tough Claws
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Metal Claw
 
 === TRAINER_DAPHNE ===
 Name: DAPHNE
@@ -13038,11 +13057,23 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability / Prefer Strongest Move
 
-Magikarp
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Horsea @ Lum Berry
+Level: 13
+Timid Nature
+Ability: Swift Swim
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Twister
+- Aurora Beam
+
+Basculin-Blue-Striped @ Choice Band
+Level: 13
+Adamant Nature
+Ability: Adaptability
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
 
 === TRAINER_HAILEY ===
 Name: HAILEY
@@ -14380,7 +14411,7 @@ Cubchoo @ Never-Melt Ice
 Level: 12
 Adamant Nature
 Ability: Snow Cloak
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Smash
 - Ice Fang
 - Icy Wind
