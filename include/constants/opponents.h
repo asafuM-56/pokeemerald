@@ -776,7 +776,7 @@
 #define TRAINER_ROXANNE_2                   770
 #define TRAINER_ROXANNE_3                   771
 #define TRAINER_ROXANNE_4                   772
-#define TRAINER_ROXANNE_5                   773
+#define TRAINER_GEORGIE                     773
 #define TRAINER_BRAWLY_2                    774
 #define TRAINER_BRAWLY_3                    775
 #define TRAINER_BRAWLY_4                    776

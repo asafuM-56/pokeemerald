@@ -14359,63 +14359,41 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Rock Slide
 
-=== TRAINER_ROXANNE_5 ===
-Name: ROXANNE
-Class: Leader
-Pic: Leader Roxanne
-Gender: Female
+=== TRAINER_GEORGIE ===
+Name: GEORGIE
+Class: Tuber M
+Pic: Tuber M
+Gender: Male
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Check Bad Move / Try To Faint / Check Viability
+Double Battle: No
+AI: Check Bad Move / Try To Faint / Check Viability / Prefer Strongest Move
 
-Aerodactyl
-Level: 47
+Scraggy @ Oran Berry
+Level: 12
+Jolly Nature
+Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rock Slide
-- Hyper Beam
-- Supersonic
-- Protect
+- Rock Smash
+- Rock Tomb
 
-Golem
-Level: 47
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Focus Punch
-- Rollout
-- Earthquake
-- Explosion
+Cubchoo @ Never-Melt Ice
+Level: 12
+Adamant Nature
+Ability: Snow Cloak
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31
+- Rock Smash
+- Ice Fang
+- Icy Wind
 
-Omastar
-Level: 47
+Corphish @ Muscle Band
+Level: 12
+Hasty Nature
+Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Ice Beam
-- Rock Slide
-- Surf
-
-Kabutops @ Sitrus Berry
-Level: 50
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Swords Dance
-- Ice Beam
-- Surf
-- Rock Slide
-
-Steelix
-Level: 50
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
-
-Nosepass @ Sitrus Berry
-Level: 52
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Double Team
-- Explosion
-- Protect
-- Rock Slide
+- Aqua Jet
+- Vise Grip
+- Knock Off
+- Bubble Beam
 
 === TRAINER_BRAWLY_2 ===
 Name: BRAWLY

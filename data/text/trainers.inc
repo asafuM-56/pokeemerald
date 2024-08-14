@@ -294,6 +294,18 @@ Route104_Text_IvanPostBattle:
 	.string "I got too into fishing.\n"
 	.string "I forgot I had to raise my POKéMON…$"
 
+Route104_Text_GeorgieIntro:
+	.string "I love building things in the sand\n"
+	.string "together with my POKéMON!$"
+
+Route104_Text_GeorgieDefeat:
+	.string "Will you build sand castles\n"
+	.string "with us?$"
+
+Route104_Text_GeorgiePostBattle:
+	.string "Have you come to build a sand\n"
+	.string "with me?$"
+
 Route104_Text_BillyIntro:
 	.string "Leaving footprints in the sand is\n"
 	.string "so fun!$"
